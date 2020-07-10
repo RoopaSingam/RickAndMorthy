@@ -1,0 +1,13 @@
+.paper1 {
+  background-color: black;
+  color: white;
+}
+
+.data1 {
+  margin-left: 10px;
+  width: 400px;
+  background-color: black;
+  color: white;
+  height: 210px;
+  padding: 10px 0px 20px 40px;
+}
